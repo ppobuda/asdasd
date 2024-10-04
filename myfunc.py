@@ -1,2 +1,2 @@
-def myfunc1(int: param1, int: param2):
+def myfunc1(param1, param2):
     return param1 + param2
